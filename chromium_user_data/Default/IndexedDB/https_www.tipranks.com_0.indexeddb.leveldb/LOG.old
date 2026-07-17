@@ -1,0 +1,25 @@
+2026/07/16-23:39:11.515 2d20 Reusing MANIFEST C:\Users\justi\Desktop\TipRanksExport\chromium_user_data\Default\IndexedDB\https_www.tipranks.com_0.indexeddb.leveldb/MANIFEST-000001
+2026/07/16-23:39:11.516 2d20 Recovering log #206
+2026/07/16-23:39:11.516 2d20 Reusing old log C:\Users\justi\Desktop\TipRanksExport\chromium_user_data\Default\IndexedDB\https_www.tipranks.com_0.indexeddb.leveldb/000206.log 
+2026/07/16-23:39:11.516 2d20 Delete type=2 #205
+2026/07/16-23:39:13.022 4970 Level-0 table #211: started
+2026/07/16-23:39:13.331 4970 Level-0 table #211: 661 bytes OK
+2026/07/16-23:39:13.378 4970 Delete type=0 #206
+2026/07/16-23:39:13.378 4970 Manual compaction at level-0 from '\x00C\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00D\x00\x00\x00' @ 0 : 0; will stop at '\x00C\x00\x00\x05' @ 1293 : 1
+2026/07/16-23:39:13.379 4970 Compacting 1@0 + 1@1 files
+2026/07/16-23:39:13.927 4970 Generated table #212@0: 11 keys, 643 bytes
+2026/07/16-23:39:13.928 4970 Compacted 1@0 + 1@1 files => 643 bytes
+2026/07/16-23:39:14.156 4970 compacted to: files[ 0 1 1 0 0 0 0 ]
+2026/07/16-23:39:14.157 4970 Delete type=2 #211
+2026/07/16-23:39:14.158 4970 Manual compaction at level-0 from '\x00C\x00\x00\x05' @ 1293 : 1 .. '\x00D\x00\x00\x00' @ 0 : 0; will stop at (end)
+2026/07/16-23:39:14.622 52b4 Level-0 table #214: started
+2026/07/16-23:39:15.256 52b4 Level-0 table #214: 646 bytes OK
+2026/07/16-23:39:15.452 52b4 Delete type=2 #208
+2026/07/16-23:39:15.452 52b4 Delete type=0 #210
+2026/07/16-23:39:15.461 4ddc Manual compaction at level-0 from '\x00D\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00E\x00\x00\x00' @ 0 : 0; will stop at '\x00D\x00\x00\x05' @ 1310 : 1
+2026/07/16-23:39:15.461 4ddc Compacting 1@0 + 1@1 files
+2026/07/16-23:39:15.810 4ddc Generated table #215@0: 11 keys, 645 bytes
+2026/07/16-23:39:15.810 4ddc Compacted 1@0 + 1@1 files => 645 bytes
+2026/07/16-23:39:15.912 4ddc compacted to: files[ 0 1 1 0 0 0 0 ]
+2026/07/16-23:39:15.913 4ddc Delete type=2 #214
+2026/07/16-23:39:15.913 4ddc Manual compaction at level-0 from '\x00D\x00\x00\x05' @ 1310 : 1 .. '\x00E\x00\x00\x00' @ 0 : 0; will stop at (end)
